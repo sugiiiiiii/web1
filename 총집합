@@ -1,0 +1,42 @@
+
+<!doctype html>
+<html>
+<head>
+<title>WEB1 - html</title>
+</head>
+
+
+
+<body>
+
+  <h1><a href="index.html" target="_blank">WEB</a></H1>
+
+<ul>
+<li>1.<a href="1.html" target="_blank">HTML</a></li>
+<li>2.<a href="2.html" target="_blank">CSS</a></li>
+<li>3.<a href="3.html" target="_blank">JavaScript</a></li>
+</ul>
+<ol>
+  <li>오징어</li>
+  <li>꼴뚜기</li>
+  <li>문어</li>
+</ol>
+
+
+<h2><a href="http://www.w3.org/TR/html4/" target="_blank"
+  title="html4 specification"> HTML</a> </h2>
+이것은 <u>컴퓨터 언어</u>이다 <strong> 공짜이구요</strong>
+
+SC제일은행, 최고 1%금리 시그니처통장 선봬<br><br>
+SC제일은행 제공<br>
+ SC제일은행은 입출금이 자유로우면서도 은행거래실적과 연계해<br>
+ 연 최고 1.0%(세전)까지 금리를 제공하는
+ <p>'SC제일마이시그니처통장(이하 마이시그니처통장)'을 선보인다고 25일 밝혔다.</p>
+<p>마이시그니처통장은 입금 건별로 입금후 최초 30일까지는 0.01%, 31일 이후부터는
+예금주가 SC제일은행에 보유하고 있는 계좌의 거래실적, 신탁, 원화·외화 입출금예금의
+전전월말 잔액에 따라 0.1%~0.7%까지 차등 금리를 적용한다.</p> 우대조건을 만족하면
+1년간 최고 0.3% 금리를 더 준다.
+<p>
+<img src="coding.jpg" width="100%" >
+</p>
+</body>
